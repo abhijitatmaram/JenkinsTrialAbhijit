@@ -6,6 +6,5 @@
 <input type="text" class="form-control" name="uname" placeholder="username">                                        
 <input id="login-password" type="password" class="form-control" name="pwd" placeholder="password">
 <input type="submit" value="Login"  class="btn btn-success" />
-
 </body>
 </html>
