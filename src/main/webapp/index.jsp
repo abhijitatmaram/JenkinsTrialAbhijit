@@ -1,5 +1,7 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+<h2>Welcome to Jenkins Tutorial</h2>
+<p>Hi Abhijit</p>
+<img src="download.png"/>
 </body>
 </html>
